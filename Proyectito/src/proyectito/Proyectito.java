@@ -17,6 +17,7 @@ public class Proyectito {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola mundito");
+        System.out.println("Hola mundito aweonaito");
     }
     
 }
