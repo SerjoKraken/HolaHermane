@@ -19,6 +19,9 @@ public class Proyectito {
         System.out.println("Hola mundito");
         System.out.println("Bruh");
         System.out.println("Hola mundito aweonaito culiaito");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("bruh");
+        }
     }
     
 }
